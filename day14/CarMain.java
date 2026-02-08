@@ -7,7 +7,7 @@ public class CarMain {
 		
 		Car myCar1=new Car();		//object -- myCar1
 		myCar1.color="Red";
-		myCar1.price=350000;
+		myCar1.price= -350000;
 		myCar1.rating=5.2;
 		myCar1.drive();		
 		myCar1.color="Green";
@@ -24,5 +24,7 @@ public class CarMain {
 		myCar3.drive();
 
 	}
+	
+	
 
 }

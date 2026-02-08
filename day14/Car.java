@@ -15,4 +15,14 @@ public class Car {
 		System.out.println(isExpensive);
 	}
 
+	public static void main(String[] args) {
+		
+		Car c1=new Car();
+		c1.color="Blue";
+		c1.drive();
+		
+		Car c2=new Car();
+		c2.color="Red";
+		c2.drive();
+	}
 }

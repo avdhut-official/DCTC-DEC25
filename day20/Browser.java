@@ -5,4 +5,10 @@ public abstract class Browser {
 	 abstract void launch();
 	 abstract void getURL();
 	 abstract void getName();
+	 
+	 void data()
+	 {
+		 
+		 
+	 }
 }

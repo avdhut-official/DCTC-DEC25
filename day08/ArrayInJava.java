@@ -11,7 +11,11 @@ public class ArrayInJava {
 		a[3]=30;
 		a[4]=35;
 		
+
 		System.out.println(a[0]);
+		
+		a[5]=56;
+		
 		
 		a[0]=40; 					//updating the index
 		System.out.println(a[0]);
@@ -19,6 +23,9 @@ public class ArrayInJava {
 		System.out.println(a[2]);
 		System.out.println(a[3]);
 		System.out.println(a[4]);
+		
+		
+		
 	
 		
 	}

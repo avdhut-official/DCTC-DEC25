@@ -1,4 +1,4 @@
-package day25;
+package day24;
 
 public class UserPortal implements LoginService, LogoutService{
 

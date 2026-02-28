@@ -1,6 +1,6 @@
-package day24;
+package day23;
 
-import day23.AccessTest;
+import day22.AccessTest;
 
 public class Unknown {
 	
